@@ -9,7 +9,7 @@ import com.oguzdev.circularfloatingactionmenu.library.SubActionButton
 import raha.test.circularfloatingactionmenu.databinding.ActivityMainBinding
 
 // 1.adding view binding to our awesome project :)
-// 2.adding the CircularFloatingActionButton dependency to build.gradle (Module)
+// 2.adding the CircularFloatingActionMenu dependency to build.gradle (Module)
 // 3.make the layout ready...
 // 4. work on context
 
